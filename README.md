@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20Dev%20World!&animation=twinkling&Desc=유니티%20개발자%20이현석)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=현석의%20Github&animation=twinkling&fontcolor=auto&fontSize=50&fontAlignY=35&desc=%20I'm%20Unity%20Developer.%20&descAlignY=50)
