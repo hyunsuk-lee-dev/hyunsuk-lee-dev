@@ -17,14 +17,18 @@
   <h4>Platform</h4>
   
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/windows)
+  [![macOs](https://img.shields.io/badge/macOs-000000?style=flat&logo=macos&logoColor=FFFFFF)](https://www.apple.com/macos/)
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)](https://developer.android.com/)
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=FFFFFF)](https://www.apple.com/ios/)<!--
   [![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=flat&logo=oculus&logoColor=FFFFFF)](https://www.oculus.com/)
-  [![SteamVR](https://img.shields.io/badge/SteamVR-000000?style=flat&logo=steam&logoColor=FFFFFF)](https://store.steampowered.com/app/250820/SteamVR/)
+  [![SteamVR](https://img.shields.io/badge/SteamVR-000000?style=flat&logo=steam&logoColor=FFFFFF)](https://store.steampowered.com/app/250820/SteamVR/)-->
   <br/>
   <h4>Tools</h4>
   
   [![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/)
+  [![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=FFFFFF)](https://www.jetbrains.com/rider/)
   [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
+  [![Fork](https://img.shields.io/badge/Fork-009AEE?style=flat&&logoColor=FFFFFF)](https://git-fork.com)
   [![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=flat&logo=sublimetext&logoColor=FFFFFF)](https://www.sublimetext.com/)
   [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=FFFFFF)](https://slack.com/)
   [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=FFFFFF)](https://trello.com/)
@@ -32,7 +36,7 @@
   
   <h3>Blog</h3>
   
-  [![Blog](https://img.shields.io/badge/My%20Blog-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://leehs27.github.io/)
+  [![Blog](https://img.shields.io/badge/My%20Blog-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://hyunsuk-lee-dev.github.io/)
   [![Velog](https://img.shields.io/badge/My%20Velog-1EC995?style=for-the-badge&logo=vimeo&logoColor=FFFFFF)](https://velog.io/@leehs27)
 
 </div>
