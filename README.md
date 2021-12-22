@@ -4,7 +4,7 @@
   
   <h3>My Stats</h3>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=leehs27&show_icons=true&hide=contribs,prs&count_private=true&theme=tokyonight&hide_border=true&locale=kr&hide_title=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyunsuk-lee-dev&show_icons=true&hide=contribs,prs&count_private=true&theme=tokyonight&hide_border=true&locale=kr&hide_title=true)
   
   <h3>Tech Stack</h3>
   <h4>Skill</h4>
